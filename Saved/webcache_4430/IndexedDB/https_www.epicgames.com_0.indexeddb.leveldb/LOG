@@ -1,0 +1,6 @@
+2024/09/10-19:58:02.060 586c Creating DB C:/Users/isabe/OneDrive/Documentos/Unreal Projects/Aula2/Saved/webcache_4430\IndexedDB\https_www.epicgames.com_0.indexeddb.leveldb since it was missing.
+2024/09/10-19:58:02.066 586c Reusing MANIFEST C:/Users/isabe/OneDrive/Documentos/Unreal Projects/Aula2/Saved/webcache_4430\IndexedDB\https_www.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/10-19:58:34.698 55c4 Level-0 table #5: started
+2024/09/10-19:58:34.706 55c4 Level-0 table #5: 2913 bytes OK
+2024/09/10-19:58:34.707 55c4 Delete type=0 #3
+2024/09/10-19:58:34.708 55c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

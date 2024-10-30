@@ -1,0 +1,6 @@
+2024/09/16-21:54:44.459 3330 Creating DB C:/Users/isabe/OneDrive/Documentos/Unreal Projects/Aula2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/09/16-21:54:44.468 3330 Reusing MANIFEST C:/Users/isabe/OneDrive/Documentos/Unreal Projects/Aula2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/16-22:07:41.009 61cc Level-0 table #5: started
+2024/09/16-22:07:41.017 61cc Level-0 table #5: 1167 bytes OK
+2024/09/16-22:07:41.018 61cc Delete type=0 #3
+2024/09/16-22:07:41.018 61cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
